@@ -1,0 +1,10 @@
+   72  git clone https://github.com/gabrielholz/dh_int_inf_aula_6_grupo_1.git     
+   73  echo "lista de comandos: "> Comandos_Git_Grupo_1
+   74  echo "lista de comandos: "> Comandos_Git_Grupo_1.txt
+   75  git add .
+   76  cd dh_int_inf_aula_6_grupo_1/
+   77  git add .
+   78  git status
+   79  git commit -m "commit do arquivo comandos"
+   80  git push
+   81  history
