@@ -1,0 +1,20 @@
+ 1  cd
+    2  cd repositorio
+    3  clear
+    4  git checkout 
+    5  cd ..
+    6  cd aula_5e6/
+    7  git clone https://github.com/gabrielholz/dh-aula5e6-git-github-
+    8  clear
+    9  cd repositorio
+   10  git checkout -b main
+   11  cd ..
+   12  git clone https://github.com/jorgehugo95/dh_int_inf_aula_6_grupo_1.git
+   13  cd dh_int_inf_aula_6_grupo_1/
+   14  git pull
+   15  clear
+   16  cd ..
+   17  git clone https://github.com/gabrielholz/dh_int_inf_aula_6_grupo_1.git
+   18  cd dh_int_inf_aula_6_grupo_1/
+   19  touch history_JorgeHugo.txt
+   20  history
