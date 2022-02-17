@@ -1,0 +1,32 @@
+    1  !
+    2  mkdir dh
+    3  ls
+    4  cd dh
+    5  mkdir integracao_aula_1e2
+    6  cd integracao_aula_1e2
+    7  mkdir historia_da_contabilidade
+    8  cd historia_da_contabilidade/
+    9  touch resumo.txt     
+   10  cd ..
+   11  mkdir servidores     
+   12  cd servidores/       
+   13  touch resumo.txt
+   14  cd ..
+   15  mkdir interfaces_de_usuarios
+   16  cd interfaces_de_usuarios/
+   17  touch resumo.txt     
+   18  cd ..
+   19  mkdir o_que_faremos_hoje
+   20  cd o_que_faremos_hoje/
+   21  touch resumo.txt     
+   22  cd ..
+   23  mkdir infraestrutura 
+   24  cd infraestrutura/   
+   25  touch resumo.txt     
+   26  cd ..
+   27  cd ..
+   28  ls -R
+   29  git clone https://github.com/gabrielholz/dh_int_inf_aula_6_grupo_1.git       
+   30  cd dh_int_inf_aula_6_grupo_1/
+   31  touch history_dylanhakan.txt
+   32  history
